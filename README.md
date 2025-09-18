@@ -22,7 +22,7 @@ I'm a 19-year-old software developer from British Columbia, Canada.
 
 ---
 
-BSc Computing Science Student at the [Simon Fraser University](https://www.sfu.ca/)
+BSc. Computing Science Student at the [Simon Fraser University](https://www.sfu.ca/)
 
 __Languages__
 
